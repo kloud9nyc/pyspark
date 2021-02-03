@@ -1,0 +1,4 @@
+{
+  "boston_dataset_csv_path": "file:////Users/nithya/PycharmProjects/PyFlow/tests/test_data/sales/boston.csv",
+  "boston_dataset_output_path": "file:////Users/nithya/PycharmProjects/PyFlow/tests/test_data/sales/output"
+}

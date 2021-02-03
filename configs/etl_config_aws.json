@@ -1,0 +1,6 @@
+{
+  "steps_per_floor": 21,
+  "boston_dataset_csv_path": "s3a://athena-nithya-useast/datasets/boston.csv",
+  "boston_dataset_parquet_path": "s3a://athena-nithya-useast/datasets/parquet/",
+  "boston_dataset_parquet_output_path": "s3a://athena-nithya-useast/datasets/output/"
+}

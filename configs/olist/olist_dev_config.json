@@ -1,0 +1,4 @@
+{
+  "olist_order_dataset_csv_path": "file:////Users/nithya/PycharmProjects/PyFlow/data/olist/olist_orders_dataset.csv",
+  "olist_order_items_dataset_csv_path": "file:////Users/nithya/PycharmProjects/PyFlow/data/olist/olist_order_items_dataset.csv"
+}
